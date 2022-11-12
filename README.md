@@ -1,3 +1,2 @@
-Hi guys ,I am new in programming and I want to 
-Make a game;))
-Bye!
+Hi guys ,I am the one who makes password list,
+Is for educational purposes only!have fun!
